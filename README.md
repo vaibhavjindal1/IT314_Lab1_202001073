@@ -1,8 +1,5 @@
 # IT314_Lab1_202001073
-IT 314
-Lab 1
-Name: Vaibhav Jindal
-Id: 202001073
+
 Q.1. Identify FRs and NFRs:
 The institute has been recently set up to provide state-of-the-art research facilities in the
 field of Software Engineering. Apart from research scholars (students) and professors, it also
