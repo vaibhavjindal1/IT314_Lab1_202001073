@@ -35,6 +35,8 @@ from the system.
 6. The feature of issuing or returning books should only be given to
 members of the LIS.
 7. The LIS should only run within the institute LAN.
+
+
 NFR( Non Functional Requirements)
 1. Confidential information such as passwords should not be stored in
 plain text within the LIS.
@@ -44,6 +46,8 @@ can use the software.
 4. Reduced security risk of the software due to application running only
 within the institute LAN.
 5. The web application should be made using the latest HTML 5.
+
+
 Q.2. Identify scope, features and non-functional aspects of the following
 problem.
 Approximately 5% of the world population (or a staggering 466 million
@@ -57,10 +61,16 @@ horns and babies,
 where immediate alerts and continual logging are critical for the user. This
 app is optimized
 for Android with low-latency so that it works in real-time for use.
+
+
 Ans:
+
+
 Scope:
 The scope of this project is to create a mobile application that addresses
 the everyday needs of individuals with disabling hearing loss.
+
+
 Features:
 1. Artificial intelligence that recognizes key sound events of interest to
 this community
@@ -68,6 +78,8 @@ this community
 3. Continual logging of sound events
 4. Optimized for Android
 5. Low-latency to work in real-time
+
+
 Non-functional aspects:
 1. User-friendly interface
 2. Security features to protect user's data
