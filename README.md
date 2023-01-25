@@ -19,7 +19,7 @@ The final deliverable would be a web application (using the recent HTML 5), whic
 run only within the institute LAN. Although this reduces security risk of the software to a
 large extent, care should be taken no confidential information (eg., passwords) is stored in
 plain text.
-Ans:
+#Ans:
 FR(Functional Requirements)
 1. The ability for members to borrow and return books from their
 desk/chamber.
